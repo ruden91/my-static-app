@@ -15,5 +15,5 @@
     "eject": "react-scripts eject",
     "deploy": "react-scripts build && gh-pages -d build"
   },
-  "homepage": "https://ruden91.github.io"
+  "homepage": "https://ruden91.github.io/portfolio-react-app"
 }
